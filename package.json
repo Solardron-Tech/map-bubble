@@ -20,6 +20,7 @@
     "@angular/platform-browser-dynamic": "~10.2.5",
     "@angular/router": "~10.2.5",
     "@types/openlayers": "^4.6.18",
+    "angular-cli-ghpages": "^1.0.0",
     "ol": "^6.12.0",
     "rxjs": "~6.6.0",
     "tslib": "^2.0.0",
